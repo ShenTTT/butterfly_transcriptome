@@ -10,6 +10,6 @@ https://combine-lab.github.io/alevin-tutorial/2019/selective-alignment/
 
 # Differential gene expression analysis
 
-The analysis is performed in R studio using the pipeline provided.
+The analysis is performed in R studio using the pipeline provided in DEG.R.
 
 
