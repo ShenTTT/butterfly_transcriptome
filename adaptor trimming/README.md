@@ -1,5 +1,5 @@
 # Purpose
-These scripts are used to trim adaptor sequences from raw RNA-seq or sRNA-seq sequencing data.
+These scripts are used to trim adaptor sequences from raw RNA-seq or sRNA-seq data.
 
 # Usage
 1. Install trimmomatic in your system and change the path in the scripts accordingly.
