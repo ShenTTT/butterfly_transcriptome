@@ -5,7 +5,7 @@ These scripts are used to clean raw small RNA (sRNA)-seq data for the purpose of
 
 1. Trim adaptors from the raw sRNA-seq data as described.
 
-2. Remove rRNAs, tRNAs, snRNAs, and snoRNAs using sortmeRNA (sortmerna.sh) to generate clean sRNA-seq data for miRNA annotation (described in a seperate section)
+2. Remove rRNAs, tRNAs, snRNAs, and snoRNAs using sortmeRNA (sortmerna.sh) to generate clean sRNA-seq data for miRNA annotation. The complete list of known sRNA databases were listed in the original publication. Please refer to the sortmeRNA manual for the proper format of the reference databases. Different catagories of sRNAs are removed one after another. For instance, clean reads after the removal of rRNAs are further processed to remove tRNAs, and then snRNAs, and so on. 
 
 # Annotate sRNA composition 
 
