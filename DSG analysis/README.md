@@ -2,12 +2,13 @@
 These scripts are used to find alternative splicing events in the transcriptome and identify differentially spliced genes (DSGs) between two conditions.
 
 # Identify alternative splicing events
+1. Map the adaptor trimmed RNA-seq reads onto the genome using HISAT2 and create sorted and indexed bam files (use hisat2+samtool.sh). 
 
-1. Install rMATS and create a sample.txt file to group all the RNA-seq samples from which to detect alternative splicing events, according to the rMTAS manual:
+2. Install rMATS and create a sample.txt file to group all the RNA-seq samples (sorted and indexed bam files) from which to detect alternative splicing events, according to the rMTAS manual:
 
 https://github.com/Xinglab/rmats-turbo/blob/v4.1.2/README.md
 
-2. Detect alternative splicing events without comparisons using the command in rmats_statoff.txt
+3. Detect alternative splicing events without comparisons using the command in rmats_statoff.txt
 
 # Differential splicing analysis
 
