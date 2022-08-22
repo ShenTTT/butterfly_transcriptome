@@ -1,5 +1,5 @@
 # Purpose
-This R script is used to generate Venn plot and scatter plot to show the correlation between differentially expressed genes (DEGs) and differentially spliced genes (DSGs) from the same conparison.
+This R script is used to generate Venn plot and scatter plot to show the correlation between differentially expressed genes (DEGs) and differentially spliced genes (DSGs) from the same comparison.
 
 Required files are outputs from the DEG analysis: 
 1. DEG lists (DEG_stage_WSvsDS.csv)
