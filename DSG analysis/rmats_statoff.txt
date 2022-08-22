@@ -1,0 +1,1 @@
+python /path/to/rmats.py --b1 sample.txt --gtf genome.gtf -t single --readLength 150 --variable-read-length --nthread 12 --novelSS --od /path/to/output --tmp /path/to/temp_output --statoff
