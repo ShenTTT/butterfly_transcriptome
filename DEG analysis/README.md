@@ -1,5 +1,5 @@
 # Purpose
-These scripts are used to identify differentially expressed genes (DEGs) between conditions, generate overall gene expression profiles (heatmap & PCA).
+These scripts are used to identify differentially expressed genes (DEGs) between conditions and generate overall gene expression profiles (heatmap & PCA).
 
 # Gene quantification using Salmon
 
