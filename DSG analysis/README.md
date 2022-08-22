@@ -1,5 +1,5 @@
 # Purpose
-These scripts are used to find alternative splicing events in the transcriptome and identify differentially spliced genes (DSGs) between conditions.
+These scripts are used to find alternative splicing events in the transcriptome and identify differentially spliced genes (DSGs) between two conditions.
 
 # Identify alternative splicing events
 
