@@ -1,5 +1,5 @@
 # Purpose
-These scripts are used to identify differentially expressed genes (DEGs) between conditions, generate overall gene expression profiles (heatmap & PCA), and perform functional enrichment analysis (GO & KEGG) on DEGs.
+These scripts are used to identify differentially expressed genes (DEGs) between conditions, generate overall gene expression profiles (heatmap & PCA).
 
 # Gene quantification using Salmon
 
